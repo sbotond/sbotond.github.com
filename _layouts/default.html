@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Template based on  Matthew James Taylor's "Perfect 3 Column Liquid Layout" at http://matthewjamestaylor.com/blog/perfect-3-column.htm -->
+<html lang='en' xml:lang='en' xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta name="keywords" content="Botond Sipos, sbotond, homepage, publications, honlap" />
+    <title>Botond Sipos - {{ page.title }}</title>
+    <link rel="stylesheet" href="/style.css" type="text/css" />
+   
+    <!-- Google Analytics tracking code --> 
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-2207890-5']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+    </script>
+</head>
+
+<body>
+
+<div class="colmask threecol">
+    <div class="colmid">
+        <div class="colleft">
+
+            <div class="col1">
+                <!-- Column 1 start -->
+
+                {{ content }}
+
+                <!-- Column 1 end -->
+            </div>
+
+            <div class="col2">
+                <!-- Column 2 start -->
+
+                    <ul class="sidebar">
+                        <li> <a href="/" class="logo"><img src="files/pix/photo.jpg" alt="photo"/></a> </li>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="projects.html">Projects</a></li>
+                    </ul>
+
+                <!-- Column 2 end -->
+            </div>
+
+            <div class="col3">
+                <!-- Column 3 start -->
+
+                <script src="http://widgets.twimg.com/j/2/widget.js" type="text/javascript"></script>
+                <script type="text/javascript">
+                    new TWTR.Widget({
+                        version: 2,
+                        type: 'profile',
+                        rpp: 30,
+                        interval: 30000,
+                        width: 250,
+                        height: 300,
+                        theme: {
+                            shell: {
+                                background: '#bfbfbf',
+                                color: '#ffffff'
+                            },
+                            tweets: {
+                                background: '#ffffff',
+                                color: '#000000',
+                                links: '#1c42ff'
+                            }
+                        },
+                        features: {
+                            scrollbar: true,
+                            loop: false,
+                            live: true,
+                            behavior: 'all'
+                        }
+                    }).render().setUser('4a6a5a').start();
+                </script>
+
+                <!-- Column 3 end -->
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+
+</html>
