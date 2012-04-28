@@ -4,5 +4,3 @@ site:
 	jekyll
 serv:
 	jekyll --server
-pub:
-	kbibtex _cv/pub.bib
