@@ -9,6 +9,9 @@ I am a postdoctoral researcher in the [Goldman group](http://www.ebi.ac.uk/goldm
 
 ### Selected publications 
 
+* B. Sipos, T. Massingham, A.M. Stütz, N. Goldman (2012) *An improved protocol for sequencing of repetitive genomic regions and structural variation
+s using mutagenesis and Next Generation Sequencing*. PLoS ONE 7(8):e43359 - [doi:10.1371/journal.pone.0043359](http://dx.doi.org/10.1371/journal.pone.0043359)
+
 * B. Sipos, T. Massingham, G.E. Jordan, and N. Goldman (2011) Phylosim -- *Monte Carlo simulation of sequence evolution in the R statistical computing environment* - BMC Bioinformatics 12:104 - [doi:10.1186/1471-2105-12-104](http://dx.doi.org/10.1186/1471-2105-12-104)
 
 * K. Somogyi, B. Sipos, Z. Pénzes, and I. Andó (2010) *A conserved gene cluster as a putative functional unit in insect innate immunity* - FEBS Letters 584:4375–4378 - [doi:10.1016/j.febslet.2010.10.014](http://dx.doi.org/10.1016/j.febslet.2010.10.014)
