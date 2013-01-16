@@ -22,6 +22,6 @@ For a full list of publications check out my Google Scholar [profile](http://sch
 
 
 <p style="text-align:center">
-<a href="http://scholar.google.co.uk/citations?user=_hAYjH0AAAAJ&hl=en">Google Scholar</a> -- <a href="https://github.com/sbotond">GitHub</a> -- <a href="http://www.biostars.org/user/profile/1093/">BioStar</a> -- <a href="http://stats.stackexchange.com/users/2802/botond-sipos">CrossValidated</a> -- <a href="https://plus.google.com/103486676558203123085/posts">Google+</a>
+<a href="http://bit.ly/V8hACt">Google Scholar</a> -- <a href="https://github.com/sbotond">GitHub</a> -- <a href="http://www.biostars.org/user/profile/1093/">BioStar</a> -- <a href="http://stats.stackexchange.com/users/2802/botond-sipos">CrossValidated</a> -- <a href="https://plus.google.com/103486676558203123085/posts">Google+</a>
 </p>
 
