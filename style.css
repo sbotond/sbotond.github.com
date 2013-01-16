@@ -9,7 +9,7 @@ body {
     background:#fff;
     min-width:600px;        /* Minimum width of layout - remove line if not required */
                             /* The min-width property does not work in old versions of Internet Explorer */
-    font-size:90%;
+    font-size:95%;
     font-family: Palatino, Georgia, serif;
     
 }
@@ -30,6 +30,41 @@ a:hover {
 h1, h2, h3 {
     margin:.8em 0 .2em 0;
     padding:0;
+}
+
+hr.post_skip {
+    border: none;
+    border-top: dotted 2px #bfbfbf;
+    color: #ffffff;
+    background-color: #ffffff;
+}
+
+a.post_title {
+  color: #000000;
+  text-decoration:none;
+}
+
+a.fancy {
+  color: #bfbfbf;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a.fancy:hover {
+  color: #000000;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+div.datum {
+  color: #bfbfbf;
+  font-size: 0.3em
+  margin-top: 0em;
+  margin-bottom: 1em;
+}
+
+h1.post_title {
+    margin-bottom: 0em
 }
 
 p {
@@ -191,4 +226,15 @@ ul.sidebar li a:hover {
   font-weight: bold;
   text-decoration: none;
 }
+
+/* set heading sizes */
+
+body {font-size:100%;}
+h1 {font-size: 1.5em; margin: .67em 0;}
+h2 {font-size: 1.15em; margin: .83em 0;}
+h3 {font-size: 0.8em; margin: 1em 0;}
+h4 {font-size: 0.6em; margin: 1.33em 0;}
+h5 {font-size: .4em; line-height: 1.17em; margin: 1.67em 0;}
+h6 {font-size: .3em; margin: 2.33em 0;}
+h1, h2, h3, h4, h5, h6 {font-weight: bolder;}
 

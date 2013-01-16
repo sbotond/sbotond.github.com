@@ -3,11 +3,11 @@ layout: default
 title: Home page
 ---
 
-### Botond Sipos
+## Botond Sipos
 
 I am a postdoctoral researcher in the [Goldman group](http://www.ebi.ac.uk/goldman) at the [EMBL-EBI](http://www.ebi.ac.uk). I am interested in [bioinformatics](http://en.wikipedia.org/wiki/Bioinformatics), [computational biology](http://en.wikipedia.org/wiki/Computational_biology) and [evolution](http://en.wikipedia.org/wiki/Evolution).
 
-### Selected publications 
+## Selected publications
 
 * B. Sipos, T. Massingham, A.M. Stütz, N. Goldman (2012) *An improved protocol for sequencing of repetitive genomic regions and structural variations using mutagenesis and Next Generation Sequencing*. PLoS ONE 7(8):e43359 - [doi:10.1371/journal.pone.0043359](http://dx.doi.org/10.1371/journal.pone.0043359)
 
@@ -22,6 +22,6 @@ For a full list of publications check out my Google Scholar [profile](http://sch
 
 
 <p style="text-align:center">
-<a href='http://scholar.google.co.uk/citations?user=_hAYjH0AAAAJ&hl=en'>Google Scholar</a> -- <a href='https://github.com/sbotond'>GitHub</a> -- <a href='http://www.biostars.org/user/profile/1093/'>BioStar</a> -- <a href='http://stats.stackexchange.com/users/2802/botond-sipos'>CrossValidated</a> -- <a href='https://plus.google.com/103486676558203123085/posts'>Google+</a>
+<a href="http://scholar.google.co.uk/citations?user=_hAYjH0AAAAJ&hl=en">Google Scholar</a> -- <a href="https://github.com/sbotond">GitHub</a> -- <a href="http://www.biostars.org/user/profile/1093/">BioStar</a> -- <a href="http://stats.stackexchange.com/users/2802/botond-sipos">CrossValidated</a> -- <a href="https://plus.google.com/103486676558203123085/posts">Google+</a>
 </p>
 
