@@ -11,9 +11,10 @@ title: Projects
 
 * A pipeline to simulate [NG-SAM](http://dx.doi.org/10.1371/journal.pone.0043359) experiments \[[GitHub](https://github.com/sbotond/paper-ng-sam)\]
 
-* *PhyloSim* - an *R* package for simulating biological sequence evolution \[[GitHub](https://github.com/sbotond/phylosim)\] \[[CRAN](http://cran.r-project.org/web/packages/phylosim)\] \[[website](http://www.ebi.ac.uk/goldman-srv/phylosim)\]
 
 * *pcrcoal* - an *R* package implementing the coalescent approach to PCR simulation developed by Weiss and von Haeseler ([NAR, 1997](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC146862)) \[[GitHub](https://github.com/sbotond/pcrcoal)\] \[[CRAN](http://cran.r-project.org/web/packages/pcrcoal)\] \[[website](http://www.ebi.ac.uk/goldman-srv/pcrcoal)\]
+
+* *PhyloSim* - an *R* package for simulating biological sequence evolution \[[GitHub](https://github.com/sbotond/phylosim)\] \[[CRAN](http://cran.r-project.org/web/packages/phylosim)\] \[[website](http://www.ebi.ac.uk/goldman-srv/phylosim)\]
 
 ## Closed projects
 
