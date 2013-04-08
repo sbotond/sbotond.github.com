@@ -5,6 +5,8 @@ title: Projects
 
 ## Active projects
 
+* *rlsim*, a package for simulating [RNA-seq](http://en.wikipedia.org/wiki/RNA-Seq) library preparation with parameter estimation \[[GitHub](http://bit.ly/rlsim-git)\]
+
 * *SimCopy*, an *R* package to simulate the evolution of copy number profiles along a tree \[[GitHub](https://github.com/sbotond/simcopy)\]
 
 * *mf2q*, a *Python* script calculating scaled Q matrices from mutation counts using the DCFreq method \[[GitHub](https://github.com/sbotond/mf2q)\]
