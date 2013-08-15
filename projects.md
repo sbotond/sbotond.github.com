@@ -5,6 +5,8 @@ title: Projects
 
 ## Active projects
 
+* *paper-rlsim*, an analysis pipeline for assesing biasing factors in Illumina RNA-seq protocols through realistic simulations using rlsim \[[GitHub](http://bit.ly/rlsim-pl)\]
+
 * *rlsim*, a package for simulating [RNA-seq](http://en.wikipedia.org/wiki/RNA-Seq) library preparation with parameter estimation \[[GitHub](http://bit.ly/rlsim-git)\]
 
 * *SimCopy*, an *R* package to simulate the evolution of copy number profiles along a tree \[[GitHub](https://github.com/sbotond/simcopy)\]
