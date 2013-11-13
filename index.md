@@ -24,6 +24,6 @@ I am a postdoctoral researcher in the [Goldman group](http://www.ebi.ac.uk/goldm
 For a full list of publications check out my Google Scholar [profile](http://scholar.google.co.uk/citations?user=_hAYjH0AAAAJ&hl=en).
 
 <p style="text-align:center">
-<a href="http://bit.ly/V8hACt">Google Scholar</a> -- <a href="http://bit.ly/sb-is">ImpactStory</a> -- <a href="http://bit.ly/sborcid">ORCID</a> -- <a href="https://github.com/sbotond">GitHub</a> -- <a href="http://www.biostars.org/user/profile/1093/">BioStar</a> -- <a href="http://stats.stackexchange.com/users/2802/botond-sipos">CrossValidated</a> -- <a href="https://plus.google.com/103486676558203123085" rel="publisher">Google+</a>
+<a href="http://bit.ly/V8hACt">Google Scholar</a> -- <a href="http://bit.ly/sb-is">ImpactStory</a> -- <a href="http://bit.ly/sborcid">ORCID</a> -- <a href="https://github.com/sbotond">GitHub</a> -- <a href="http://www.biostars.org/user/profile/1093/">BioStar</a> -- <a href="http://stats.stackexchange.com/users/2802/botond-sipos">CrossValidated</a>
 </p>
 

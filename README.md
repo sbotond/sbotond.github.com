@@ -1,1 +1,1 @@
-Git repo for [http://sbotond.github.com](http://sbotond.github.com).
+Git repo for [http://sbotond.github.io](http://sbotond.github.io).
