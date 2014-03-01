@@ -3,7 +3,7 @@
 site:
 	jekyll
 serv:
-	jekyll --server
+	jekyll serve
 clean:
 	git clean -f
 	rm -r _site/*
