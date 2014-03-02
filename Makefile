@@ -1,4 +1,4 @@
-.PHONY: site serv pub
+.PHONY: site serv clean
 
 site:
 	jekyll
