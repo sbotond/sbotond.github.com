@@ -9,9 +9,9 @@ title: Projects
 
 * *rlsim*, a package for simulating [RNA-seq](http://en.wikipedia.org/wiki/RNA-Seq) library preparation with parameter estimation \[[GitHub](http://bit.ly/rlsim-git)\]
 
-* *PhyloSim* - an *R* package for simulating biological sequence evolution \[[GitHub](https://github.com/sbotond/phylosim)\] \[[CRAN](http://cran.r-project.org/web/packages/phylosim)\] \[[website](http://www.ebi.ac.uk/goldman-srv/phylosim)\]
-
 ## Closed projects
+
+* *PhyloSim* - an *R* package for simulating biological sequence evolution \[[GitHub](https://github.com/sbotond/phylosim)\] \[[CRAN](http://cran.r-project.org/web/packages/phylosim)\] \[[website](http://www.ebi.ac.uk/goldman-srv/phylosim)\]
 
 * *SimCopy*, an *R* package to simulate the evolution of copy number profiles along a tree \[[GitHub](https://github.com/sbotond/simcopy)\]
 
