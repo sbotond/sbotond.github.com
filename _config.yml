@@ -1,7 +1,7 @@
 auto: false
 server: false
 lsi: false
-markdown: maruku
+markdown: kramdown
 pygments: true
 permalink: /:month-:year/:title.html
 paginate: 1
